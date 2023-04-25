@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This project has been superseded by https://github.com/hjyoon93/iMIA
 
 # DALNIM
