@@ -1,3 +1,5 @@
+This project has been superseded by https://github.com/hjyoon93/iMIA
+
 # DALNIM
 Some source code and scripts for DALNIM
 
